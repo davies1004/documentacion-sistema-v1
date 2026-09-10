@@ -1,7 +1,7 @@
 # Sistema de Gestión de Inventario - TechStore
 
 ## 1. Descripción del Proyecto
-Escribe aquí un resumen de 2 líneas sobre un sistema de ventas. Utiliza **texto en negrita** para resaltar las características clave y *texto en cursiva* para el nombre de la empresa.
+El sistema de ventas de TechStore optimiza la gestión de inventario en tiempo real y el procesamiento rápido de pagos. Permite controlar el stock disponible de forma eficiente para garantizar una atención al cliente fluida y automatizada.
 
 ## 2. Requisitos del Sistema
 Crea una lista de tareas (checklists) con los siguientes requisitos:
