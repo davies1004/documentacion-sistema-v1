@@ -6,7 +6,7 @@ Se describe la interacción temporal entre la interfaz móvil, la API backend y 
 
 ## 2. Diagrama UML de Secuencia
 
-![Diagrama de Secuencia Autenticacion](../assets/secuencia_autentificacion(1).png)
+![Diagrama de Secuencia Autenticacion](../assets/secuencia_autentificacion_(1).png)
 
 ## 3. Detalle de los Pasos
 
