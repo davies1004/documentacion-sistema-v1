@@ -1,15 +1,19 @@
 # Sistema de Gestión de Inventario - TechStore
 
 ## 1. Descripción del Proyecto
+
 El sistema de ventas de TechStore optimiza la gestión de inventario en tiempo real y el procesamiento rápido de pagos. Permite controlar el stock disponible de forma eficiente para garantizar una atención al cliente fluida y automatizada.
 
 ## 2. Requisitos del Sistema
+
 Crea una lista de tareas (checklists) con los siguientes requisitos:
+
 - [x] Python 3.10 o superior instalado
 - [x] Base de Datos MySQL configurada
 - [ ] Documentación técnica completada
 
 ## 3. Módulos del Sistema
+
 Crea una tabla en Markdown con la siguiente estructura:
 
 | Módulo | Descripción | Estado |
@@ -19,6 +23,7 @@ Crea una tabla en Markdown con la siguiente estructura:
 | Facturación | Generación de comprobantes de pago | Pendiente |
 
 ## 4. Ejemplo de Código Fuente
+
 Inserta un bloque de código en Python formateado adecuadamente que contenga el siguiente algoritmo básico:
 
 ```python
