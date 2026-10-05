@@ -1,6 +1,6 @@
 # Sistema de Gestión de Inventario - TechStore
 
-[text](https://davies1004.github.io/documentacion-sistema-v1/)
+<https://davies1004.github.io/documentacion-sistema-v1/>
 
 ## 1. Descripción del Proyecto
 
