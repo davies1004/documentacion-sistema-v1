@@ -1,28 +1,24 @@
-# Sistema de Gestión de Inventario - TechStore
+# Pupuseria los sebas
 
 (https://davies1004.github.io/documentacion-sistema-v1/)
 
-## 1. Descripción del Proyecto TechStore
+## 1. Descripción del Proyecto, ¿de  que trata?
 
-El sistema de ventas de TechStore optimiza la gestión de inventario en tiempo real y el procesamiento rápido de pagos. Permite controlar el stock disponible de forma eficiente para garantizar una atención al cliente fluida y automatizada.
+Nuestra aplicación “El Buen Sabor” es una aplicación móvil creada para facilitar la venta y pedido de pupusas y bebidas. Su objetivo es que los clientes puedan consultar el menú, seleccionar sus productos y realizar un pedido de una manera rápida y sencilla.
 
-## 2. Requisitos del Sistema
+## 2. ¿como funciona?
 
-Crea una lista de tareas (checklists) con los siguientes requisitos:
+Al ingresar a la aplicación encontramos la pantalla de inicio, donde se presenta el restaurante y tenemos la opción de “Ver menú”.
 
-- [x] Python 3.10 o superior instalado
-- [x] Base de Datos MySQL configurada
-- [ ] Documentación técnica completada
+En el menú, el usuario puede observar las diferentes pupusas y bebidas disponibles, junto con su nombre y precio. Al presionar el botón “+”, puede agregar los productos que desea comprar.
 
-## 3. Módulos del Sistema
+Después, en la sección “Pedido”, el usuario puede revisar los productos que agregó al carrito y verificar su pedido antes de continuar.
 
-Crea una tabla en Markdown con la siguiente estructura:
+La aplicación también cuenta con las opciones de Inicio, Menú, Pedido y Contacto, lo que permite navegar fácilmente entre las diferentes secciones.
 
-| Módulo | Descripción | Estado |
-| :--- | :--- | :--- |
-| Autenticación | Control de acceso y roles de usuario | Completado |
-| Inventario | Registro y conteo de productos | En Proceso |
-| Facturación | Generación de comprobantes de pago | Pendiente |
+## 3. en resumen
+
+“El Buen Sabor” busca ofrecer una forma sencilla, rápida y organizada de realizar pedidos de pupusas desde un dispositivo móvil, mejorando la experiencia del cliente y facilitando el proceso de venta del negocio.
 
 ## 4. Ejemplo de Código Fuente
 
