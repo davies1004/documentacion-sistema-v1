@@ -2,7 +2,7 @@
 
 (https://davies1004.github.io/documentacion-sistema-v1/)
 
-## 1. Descripción del Proyecto
+## 1. Descripción del Proyecto TechStore
 
 El sistema de ventas de TechStore optimiza la gestión de inventario en tiempo real y el procesamiento rápido de pagos. Permite controlar el stock disponible de forma eficiente para garantizar una atención al cliente fluida y automatizada.
 
