@@ -20,6 +20,7 @@ Esta sección documenta los servicios web (Web API) disponibles para la integrac
 * **500 Internal Server Error:** Error interno en la lógica de Python o en la base de datos MySQL.
 
 ## 3. Ejemplo de Respuesta JSON
+
 ```json
 {
   "status": 200,
